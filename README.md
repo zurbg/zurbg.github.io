@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zurbg
 - 👀 I’m interested in Python and Web Applications
 - 🌱 I’m currently learning machine language
-- 📫 zurbag@mail.ru
+- 📫 zurbag@list.ru
 
 <!---
 zurbg/zurbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
